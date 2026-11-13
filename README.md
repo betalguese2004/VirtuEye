@@ -64,7 +64,7 @@ VirtuEye follows a modular architecture:
 - **Surya Sourav Parida** - [LinkedIn](https://www.linkedin.com/in/suryaparida/) | [GitHub](https://github.com/Surya-sourav)
 - **Binith Kumar** - [LinkedIn](https://www.linkedin.com/in/binith-kumar/) | [GitHub](https://github.com/Nikkhil0646)
 - **Sarthak Kumar Kalia** - [LinkedIn](https://www.linkedin.com/in/sarthak-kalia/) | [GitHub](https://github.com/sarthakkalia)
-- **Sourav Sahu** - [LinkedIn](www.linkedin.com/in/souravranjansahu/) | [Github](https://github.com/betalguese2004)
+- **Sourav Sahu** - [LinkedIn](https://www.linkedin.com/in/souravranjansahu/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNy0l3SL5SJi4Ot2DeTWoEw%3D%3D) | [Github](https://github.com/betalguese2004)
 
 ## Demo Image Overview
 ![Slide 16_9 - 13](https://github.com/Surya-sourav/VirtuEye/assets/125463872/dfddab68-3aa5-4dc0-b926-48c7671a59bc)
